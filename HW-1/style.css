@@ -1,0 +1,178 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("images/zoie.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family:'Abel', sans-serif;
+    font-weight: 400;
+}
+
+/* Description Rules */
+/* Parallax-Like Effect */
+.description-container {
+    min-height: 50vh;
+    font-size: 1em;
+}
+
+.description {
+    margin: auto;
+    padding: 0em;
+    text-align: center;
+    width: 100%;
+    min-width: 300px;
+    background-color: rgba(194,194,194,0.4);
+
+}
+
+@media (max-width: 865px) {
+    .description-container {
+        font-size: 1.5em;
+    }
+}
+
+/* Hero Image Rules */
+.hero {
+    /* I've never done a hero image this way, it makes things WAY WAY WAY easier than the way I was doing it before. Thank you! I kept in these notes so I can look back on this later.
+
+
+    **The 'vh' unit asks the browser to return the height of the viewport we can then use that to set the height of an element as a percentage of the viewport height (vh)**
+    */
+    height: 1285;
+    min-height: 740px;
+    background-image: url("images/zoie.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero .title {
+    font-size: 22pt;
+    color: rgb(255,54,41);
+    float: right;
+    margin-top: 170px;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 2em;
+    text-align: center;
+}
+
+.title h1 {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 4em;
+    letter-spacing: 1em;
+}
+
+.hero .web-link {
+    font-size: 1em;
+    color:rgb(255,54,41)
+    padding: 0.5em 1em;
+    margin: 0 0.5em;
+    text-align: center;
+}
+
+.hero .web-link:hover {
+    color: rgb(168,0,27);
+
+/*Commenting out just for right now to make sure I don't need this
+.hero .nav {
+    font-family: 'Major Mono Display', monospace;
+    font-weight: 400;
+    color: rgb(255,54,41);
+    margin-top: 2em;
+    font-size: 1.5em;
+    display: flex;
+    flex-direction: row;
+}
+
+.hero .nav a {
+    flex-grow: 1;
+    color: #fff;
+    text-decoration: none;
+}
+}/*
+
+/* I copied the min-max height things because some of the stuff I read said you didn't need these or shouldn't use these and other things I saw contained really conflicting standards of what to do so I just set it to the same basic settings as there were in the example with the exception of fonts/other stylistic stuff*/
+
+@media (max-width: 865px) {
+    .hero {
+        min-height: 730px;
+    }
+    .hero .title {
+        font-size: 40pt;
+    }
+}
+
+@media (max-width: 585px) {
+    .hero {
+        min-height: 500px;
+    }
+    .hero .title {
+        font-size: 20pt;
+        margin: 0;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 445px) {
+    .hero .title {
+        font-size: 18pt;
+    }
+}
+
+ /*Making sure I don't need this since I don't want a menu
+
+/*Info Part 2*/
+
+.more-info-bg
+height: 256;
+min-height: 128px;
+background-image: url("images/fight.jpg");
+background-position: left;
+background-repeat: no-repeat;
+background-size: cover;
+
+.more-info {
+    height:200px
+    width:450px
+    min-height: 100vh;
+    padding: 2em;
+    background-color:rgba(194,194,194,0.4);
+    color: rgb(255,54,41);
+    font-family:'Abel', sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.more-info h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+.more-info body {
+  font-family:'Abel', sans-serif;
+}
+/*.menu .menu-group-container {
+    display: flex;
+    flex-flow: row wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+}*/
+
+.menu .menu-group {
+    padding: 1em;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+.menu .menu-head {
+    font-size: 2em;
+    padding: 1em;
+}
+
+.menu .menu-item {
+    text-align: left;
+    font-style: normal;
+}
+*/

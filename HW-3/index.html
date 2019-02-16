@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Choose Your Own Adventure</title>
+  <style>
+    body {
+      background-color: rgba(100, 30, 255, 0.5)
+    }
+  </style>
+  <script>
+    //Setting up functions in the document head, which I think is what I'm supposed to do here?
+
+    //prints out the title
+
+
+    function storyTitle() {
+      document.write("<h1>Should I do my Homework?</h1>");
+    }
+
+    function description() {
+      document.write("<h2>A brief decision-making guide for the average student</h2>");
+    }
+
+    function step() {
+      document.write("Ah, the weekend is finally here. It's Saturday morning. You know you have a lot to get done before Monday, but you're not sure if now is the right time to start working.")
+    }
+  </script>
+</head>
+
+
+
+<body>
+  <div id=story> Choose your Adventure</div>
+
+  <script>
+    storyTitle();
+    description();
+    step();
+
+//Maybe I'm being stupid,, I don't feel like we were given a good example of how to create somethng someone can respond to in the lesson this week. I looked this up on W3, it's the window prompt() method. But I can't get it to show up after you read the page instead of right away.
+    /*var text;
+    var firstQ = prompt("Did you go out last night?");
+    switch (firstQ){
+      case "Yes":
+      text = "Uh oh! You much be tired and maybe dehydrated.";
+      break;
+      case "No":
+      text = "Wow, you responsible human! Good thing you're feeling well rested and ready to take on the day."
+    }*/
+  </script>
+
+
+</body>
+
+</html>
