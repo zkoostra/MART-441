@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+<style type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Pacifico" rel="stylesheet">
+
+.plainText{
+
+#text1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+       font-size: 30pt;
+       color: black;
+       position: static;
+       top: 100
+}
+
+#text2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+       font-size: 30pt;
+       color: black;
+       position: static;
+       top: 250
+
+     }
+}
+
+#text3{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+       font-size: 30pt;
+       color: hotpink;
+       position: static;
+       top: 250
+}
+
+
+#pineapple1
+img{
+  text-align: center
+  width: 400
+  height: 400
+  top: 300
+}
+
+/* #pineapple-2
+img{
+  text-align: center
+  width: 400
+  height: 400
+  top: 300
+  display: none;
+} */
+
+#box1{
+  width:400
+  height: 100
+  fill: turquoise
+  left: 10
+  top:600
+}
+
+#box2{
+  width:400
+  height: 100
+  fill: turquoise
+  left: 1200
+  top:800
+}
