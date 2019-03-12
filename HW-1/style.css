@@ -61,7 +61,7 @@ body {
 
 .title h1 {
     font-family: 'Major Mono Display', monospace;
-    font-size: 4em;
+    font-size: 3em;
     letter-spacing: 1em;
 }
 
@@ -129,7 +129,7 @@ body {
 .more-info-bg
 height: 256;
 min-height: 128px;
-background-image: url("images/fight.jpg");
+/* background-image: url("images/fight.jpg"); */
 background-position: left;
 background-repeat: no-repeat;
 background-size: cover;
