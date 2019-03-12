@@ -153,26 +153,3 @@ background-size: cover;
 .more-info body {
   font-family:'Abel', sans-serif;
 }
-/*.menu .menu-group-container {
-    display: flex;
-    flex-flow: row wrap;
-    flex-grow: 1;
-    justify-content: space-around;
-}*/
-
-.menu .menu-group {
-    padding: 1em;
-    min-width: 300px;
-    max-width: 500px;
-}
-
-.menu .menu-head {
-    font-size: 2em;
-    padding: 1em;
-}
-
-.menu .menu-item {
-    text-align: left;
-    font-style: normal;
-}
-*/
