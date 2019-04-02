@@ -1,0 +1,28 @@
+{
+  "message": "success",
+  "number": 6,
+  "people": [
+    {"craft": "ISS",
+      "name": "Oleg Kononenko",
+      "gender": "man"},
+
+    {"craft": "ISS",
+      "name": "David Saint-Jacques",
+      "gender": "man"},
+
+    {"craft": "ISS",
+      "name": "Anne McClain",
+      "gender": "woman"},
+
+    {"craft": "ISS",
+      "name": "Alexey Ovchinin",
+      "gender": "man"},
+
+    {"craft": "ISS",
+      "name": "Nick Hague",
+      "gender": "man"},
+
+    {"craft": "ISS",
+      "name": "Christina Koch",
+      "gender": "woman"}]
+  }
