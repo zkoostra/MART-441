@@ -74,7 +74,7 @@ $(document).ready(function() {
      $('#box1').animate({left:"+50"}), 1000;
   });
 
-  //function that resets the path of the pineapple image 1 jquery object so it corresponds with the  actual image and path for the second pineapple photo, then fades it back in.
+  //function that resets the path of the pineapple image 1 jquery object so it corresponds with the  actual image and path for the second pineapple photoLocation, then fades it back in.
   function changeImage() {
     $('#pineapple1').attr("src", pineappleArray[1].thePath);
     $("#pineapple1").fadeIn(1000);
