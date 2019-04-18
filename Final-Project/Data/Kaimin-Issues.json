@@ -1,11 +1,9 @@
 {
-  "message": "success",
-  "number": "26",
   "issues": [{
       "issueNumber": "1",
       "storyTitle": "What's the Tea?",
       "date": "August 29, 2018",
-      "photoLocation": "/Images/IssueNo1.jpg",
+      "photoLocation": "Images/IssueNo1.jpg",
       "involvement" : "Designer",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin9.28_12pages_final"
     },
@@ -14,7 +12,7 @@
       "issueNumber": "2",
       "storyTitle": "It said 'Open', so I did",
       "date": "September 5, 2018",
-      "photoLocation": "/Images/IssueNo2.jpg",
+      "photoLocation": "Images/IssueNo2.jpg",
       "involvement" : "Designer",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_9.3_16pages"
     },
@@ -22,7 +20,7 @@
       "issueNumber": "3",
       "storyTitle": "Still Carrying That Weight",
       "date": "September 12, 2018",
-      "photoLocation": "/Images/IssueNo3.jpg",
+      "photoLocation": "Images/IssueNo3.jpg",
       "involvement" : "Art Director and Editor",
       "link:" : "https://issuu.com/montanakaimin/docs/montanakaimin_9.10_16pages"
     },
@@ -31,7 +29,7 @@
       "issueNumber": "4",
       "storyTitle": "Mary Jane and Johnny Law: The Saga Continues at UM",
       "date": "September 19, 2018",
-      "photoLocation": "/Images/IssueNo4.jpg",
+      "photoLocation": "Images/IssueNo4.jpg",
       "involvement" : "Art Director and Editor",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_9.17_16pages"
     },
@@ -40,7 +38,7 @@
       "issueNumber": "5",
       "storyTitle": "Sustainability Then and Now",
       "date": "September 26, 2018",
-      "photoLocation": "/Images/IssueNo5.jpg",
+      "photoLocation": "Images/IssueNo5.jpg",
       "involvement" : "Art Director and Editor",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_9.24_16pages"
     },
@@ -49,7 +47,7 @@
       "issueNumber": "6",
       "storyTitle": "Us: The Missoula Portrait Project",
       "date": "October 3, 2018",
-      "photoLocation": "/Images/IssueNo6.jpg",
+      "photoLocation": "Images/IssueNo6.jpg",
       "involvement" : "Designer",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_10.2_16pages"
     },
@@ -58,7 +56,7 @@
       "issueNumber": "7",
       "storyTitle": "Elections Cramming? Your Midterm Studyguide",
       "date": "October 10, 2018",
-      "photoLocation": "/Images/IssueNo7.jpg",
+      "photoLocation": "Images/IssueNo7.jpg",
       "involvement" : "Art Director and Editor",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_8.8_20pages"
     },
@@ -67,7 +65,7 @@
       "issueNumber": "8",
       "storyTitle": "No One Believed Me",
       "date": "October 15, 2018",
-      "photoLocation": "/Images/IssueNo9.jpg",
+      "photoLocation": "Images/IssueNo9.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_10.15_20pages"
     },
@@ -76,7 +74,7 @@
       "issueNumber": "9",
       "storyTitle": "Club Sports",
       "date": "October 24, 2018",
-      "photoLocation": "/Images/IssueNo10.jpg",
+      "photoLocation": "Images/IssueNo10.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_10.23._20pages"
     },
@@ -85,7 +83,7 @@
       "issueNumber": "10",
       "storyTitle": "Close Encounters of the Squirrel Kind",
       "date": "October 31, 2018",
-      "photoLocation": "/Images/IssueNo11.jpg",
+      "photoLocation": "Images/IssueNo11.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_oct.29_20pages"
     },
@@ -94,7 +92,7 @@
       "issueNumber": "11",
       "storyTitle": "A Model Example",
       "date": "November 5, 2018",
-      "photoLocation": "/Images/IssueNo11.jpg",
+      "photoLocation": "Images/IssueNo11.jpg",
       "involvement" : "Art Director and Editor",
       "link" : "https://issuu.com/montanakaimin/docs/montanakaimin_nov6_20pages"
     },
@@ -103,7 +101,7 @@
       "issueNumber": "12",
       "storyTitle": "Griz-Cat Playbook",
       "date": "November 14, 2018",
-      "photoLocation": "/Images/IssueNo12.jpg",
+      "photoLocation": "Images/IssueNo12.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_11.12_20pages"
     },
@@ -112,7 +110,7 @@
       "issueNumber": "13",
       "storyTitle": "Please Feed the Bears",
       "date": "November 28, 2018",
-      "photoLocation": "/Images/IssueNo13.jpg",
+      "photoLocation": "Images/IssueNo13.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_11.26_16pages"
     },
@@ -121,7 +119,7 @@
       "issueNumber": "14",
       "storyTitle": "Missing & Murdered",
       "date": "January 23, 2019",
-      "photoLocation": "/Images/IssueNo14.jpg",
+      "photoLocation": "Images/IssueNo14.jpg",
       "involvement" : "Designer",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_1.21.2019_32pages"
     },
@@ -130,7 +128,7 @@
       "issueNumber": "15",
       "storyTitle" : "Open the Pit",
       "date" : "January 30",
-      "photoLocation": "/Images/IssueNo15.jpg",
+      "photoLocation": "Images/IssueNo15.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_1.28.19_32pages"
     },
@@ -139,7 +137,7 @@
       "issueNumber": "16",
       "storyTitle": "Breakdown",
       "date": "February 6, 2019",
-      "photoLocation": "/Images/IssueNo16.jpg",
+      "photoLocation": "Images/IssueNo16.jpg",
       "involvement" : "Designer",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_2.4.2019_32pages"
     },
@@ -147,7 +145,7 @@
       "issueNumber": "17",
       "storyTitle": "It's Not Just McGill",
       "date": "February 13, 2019",
-      "photoLocation": "/Images/IssueNo17.jpg",
+      "photoLocation": "Images/IssueNo17.jpg",
       "involvement" : "Art Director and Editor",
       "link":"https://issuu.com/montanakaimin/docs/montanakaimin_2.11.2019_32_pages"
     },
@@ -155,7 +153,7 @@
       "issueNumber": "18",
       "storyTitle": "Being Black",
       "date": "February 20, 2019",
-      "photoLocation": "/Images/IssueNo18.jpg",
+      "photoLocation": "Images/IssueNo18.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_2.19.2019_32pages"
     },
@@ -163,7 +161,7 @@
       "issueNumber": "19",
       "storyTitle": "Breakfast that Buzzes?!",
       "date": "February 27, 2019",
-      "photoLocation": "/Images/IssueNo19.jpg",
+      "photoLocation": "Images/IssueNo19.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_2.27.2019_32pages"
     },
@@ -171,7 +169,7 @@
       "issueNumber": "20",
       "storyTitle": "The Waiting Game",
       "date": "March 6, 2019",
-      "photoLocation": "/Images/IssueNo20.jpg",
+      "photoLocation": "Images/IssueNo20.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_3.4.2019_32pages"
     },
@@ -179,7 +177,7 @@
       "issueNumber": "21",
       "storyTitle": "Who Speaks for Students?",
       "date": "March 13, 2019",
-      "photoLocation": "/Images/IssueNo21.jpg",
+      "photoLocation": "Images/IssueNo21.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_3.11.2019_32pages"
     },
@@ -187,7 +185,7 @@
       "issueNumber": "22",
       "storyTitle": "The Real Thing",
       "date": "March 20, 2019",
-      "photoLocation": "/Images/IssueNo22.jpg",
+      "photoLocation": "Images/IssueNo22.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_3.18.2019_32pages"
     },
@@ -195,7 +193,7 @@
       "issueNumber": "23",
       "storyTitle": "The Nameless",
       "date": "April 3, 2019",
-      "photoLocation": "/Images/IssueNo23.jpg",
+      "photoLocation": "Images/IssueNo23.jpg",
       "involvement" : "Art Director and Editor",
       "link": "https://issuu.com/montanakaimin/docs/montanakaimin_4.1_32pages"
 
@@ -221,7 +219,7 @@
       "date": "April 24, 2019",
       "involvement" : "Art Director and Editor",
       "photoLocation": ""
-    },
+    }
 
 
   ]
