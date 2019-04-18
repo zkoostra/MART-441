@@ -1,42 +1,130 @@
-class Square{
+class Block{
 
-    constructor(xCoord,yCoord,objectHeight,objectWidth, color)
+    constructor(x,y,h,w, color)
     {
-        this.xCoord = xCoord;
-        this.yCoord = yCoord;
-        this.objectHeight = objectHeight;
-        this.objectWidth = objectWidth;
+        this.x = x;
+        this.y = y;
+        this.h = h;
+        this.w = w;
         this.color = color;
     }
 
-    get x()
+    get X()
     {
-        return this.xCoord;
+        return this.x;
     }
 
-    set x(value)
+    set X(value)
     {
-        this.xCoord = value;
+        this.x = value;
     }
-    get y()
+    get Y()
     {
-        return this.yCoord;
+        return this.y;
     }
-    set y(value)
+    set Y(value)
     {
-        this.yCoord = value;
-    }
-
-    get height()
-    {
-        return this.objectHeight;
+        this.y = value;
     }
 
-    get width()
+    get Height()
     {
-        return this.objectWidth;
+        return this.h;
     }
-    get mainColor()
+
+    get Width()
+    {
+        return this.w;
+    }
+    get blockColor()
+    {
+        return this.color;
+    }
+}
+
+class Prize{
+
+    constructor(x,y,h,w, color)
+    {
+        this.x = x;
+        this.y = y;
+        this.h = h;
+        this.w = w;
+        this.color = color;
+    }
+
+    get X()
+    {
+        return this.x;
+    }
+
+    set X(value)
+    {
+        this.x = value;
+    }
+    get Y()
+    {
+        return this.y;
+    }
+    set Y(value)
+    {
+        this.y = value;
+    }
+
+    get Height()
+    {
+        return this.h;
+    }
+
+    get Width()
+    {
+        return this.w;
+    }
+    get prizeColor()
+    {
+        return this.color;
+    }
+}
+
+class Player{
+
+    constructor(x,y,w,h, color)
+    {
+        this.x = x;
+        this.y = y;
+        this.h = h;
+        this.w = w;
+        this.color = color;
+    }
+
+    get X()
+    {
+        return this.x;
+    }
+
+    set X(value)
+    {
+        this.x = value;
+    }
+    get Y()
+    {
+        return this.y;
+    }
+    set Y(value)
+    {
+        this.y = value;
+    }
+
+    get Height()
+    {
+        return this.h;
+    }
+
+    get Width()
+    {
+        return this.w;
+    }
+    get playerColor()
     {
         return this.color;
     }
